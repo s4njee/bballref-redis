@@ -1,0 +1,5 @@
+pandas
+scrapy
+scrapy-selenium
+webdriver-manager
+scrapy-redis
