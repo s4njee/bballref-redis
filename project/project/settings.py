@@ -51,7 +51,7 @@ SELENIUM_DRIVER_ARGUMENTS = ["--headless"]
 # REDIS_ITEMS_SERIALIZER = 'json.dumps'
 
 # Specify the host and port to use when connecting to Redis (optional).
-REDIS_HOST = "54.215.251.85"
+REDIS_HOST = "54.183.105.196"
 REDIS_PORT = 6379
 
 # Specify the full Redis URL for connecting (optional).
